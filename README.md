@@ -1,4 +1,4 @@
-- Hi, I’m @TuesdayJZ
+- Hi, I’m Kayo Tei - @tuesdayjz
 - I'm currently a student at Waseda University CS cource.
 
 <p align="left"> 
