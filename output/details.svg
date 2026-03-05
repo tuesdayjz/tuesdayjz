@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.8826916484681" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="197.8826916484681" y="0" width="73.43446232473626" height="8" fill="#ca0f21"/>
-                    <rect mask="url(#languages-bar)" x="271.3171539732043" y="0" width="59.179277825854534" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="330.4964317990589" y="0" width="39.49659241005185" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="369.99302420911073" y="0" width="33.224421500777886" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="403.2174457098886" y="0" width="27.386163962249224" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="430.60360967213785" y="0" width="14.943270758970842" height="8" fill="#74283c"/>
-                    <rect mask="url(#languages-bar)" x="445.5468804311087" y="0" width="14.453119568891328" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.39428195523158" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="196.39428195523158" y="0" width="72.8821120174344" height="8" fill="#ca0f21"/>
+                    <rect mask="url(#languages-bar)" x="269.27639397266597" y="0" width="58.73415041212794" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="328.0105443847939" y="0" width="39.19951179879068" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="367.2100561835845" y="0" width="32.974518133272746" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="400.1845743168573" y="0" width="27.180174082273325" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="427.36474839913063" y="0" width="17.80437929807991" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="445.16912769721057" y="0" width="14.830872302789432" height="8" fill="#74283c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>358 kB</div>
-                                <div>43.02%</div>
+                                <div>42.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -234,7 +234,7 @@
                             </div>
                             <small>
                                 <div>107 kB</div>
-                                <div>12.87%</div>
+                                <div>12.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -246,19 +246,19 @@
                             </div>
                             <small>
                                 <div>60.2 kB</div>
-                                <div>7.22%</div>
+                                <div>7.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#74283c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Prolog
+                                TypeScript
                             </div>
                             <small>
-                                <div>27.1 kB</div>
-                                <div>3.25%</div>
+                                <div>32.5 kB</div>
+                                <div>3.87%</div>
                             </small>
                         </div>
                     </section>
@@ -272,7 +272,7 @@
                             </div>
                             <small>
                                 <div>133 kB</div>
-                                <div>15.96%</div>
+                                <div>15.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                             </div>
                             <small>
                                 <div>71.6 kB</div>
-                                <div>8.59%</div>
+                                <div>8.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -296,19 +296,19 @@
                             </div>
                             <small>
                                 <div>49.6 kB</div>
-                                <div>5.95%</div>
+                                <div>5.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#74283c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                Prolog
                             </div>
                             <small>
-                                <div>26.2 kB</div>
-                                <div>3.14%</div>
+                                <div>27.1 kB</div>
+                                <div>3.22%</div>
                             </small>
                         </div>
                     </section>
